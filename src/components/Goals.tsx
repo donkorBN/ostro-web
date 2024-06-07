@@ -15,28 +15,28 @@ const Goals: React.FC = () => {
           </p>
         </div>
         <div className="mt-12 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
-          <div className="rounded-lg bg-blue-500 p-6 shadow-sm hover:bg-white transition-colors duration-300">
-            <h4 className="text-xl font-semibold text-white hover:text-gray-900">Quality Education</h4>
-            <p className="mt-2 text-white hover:text-gray-600">
+          <div className="rounded-lg bg-blue-500 p-6 shadow-sm hover:bg-white transition-transform duration-1000 transform hover:-translate-y-2 cursor-pointer">
+            <h4 className="text-xl font-bold text-white hover:text-gray-900">SDG 4</h4>
+            <p className="mt-2 text-white font-semibold hover:text-gray-600">
               Enhance inclusive and equitable quality education and promote lifelong learning opportunities.
             </p>
           </div>
-          <div className="rounded-lg bg-pink-500 p-6 shadow-sm hover:bg-white transition-colors duration-300">
-            <h4 className="text-xl font-semibold text-white hover:text-gray-900">Gender Equality</h4>
-            <p className="mt-2 text-white hover:text-gray-600">
+          <div className="rounded-lg bg-red-500 p-6 shadow-sm hover:bg-white transition-transform duration-1000 transform hover:-translate-y-2 cursor-pointer">
+            <h4 className="text-xl font-bold text-white hover:text-gray-900">SDG 5</h4>
+            <p className="mt-2 text-white font-semibold hover:text-gray-600">
               Achieve gender equality and empower all women and girls.
             </p>
           </div>
-          <div className="rounded-lg bg-green-500 p-6 shadow-sm hover:bg-white transition-colors duration-300">
-            <h4 className="text-xl font-semibold text-white hover:text-gray-900">Climate Action</h4>
-            <p className="mt-2 text-white hover:text-gray-600">
-              Take urgent action to combat climate change and its impacts.
+          <div className="rounded-lg bg-green-500 p-6 shadow-sm hover:bg-white transition-transform duration-1000 transform hover:-translate-y-2 cursor-pointer">
+            <h4 className="text-xl font-bold text-white hover:text-gray-900">SDG 8</h4>
+            <p className="mt-2 text-white font-semibold hover:text-gray-600">
+              By offering high-demand tech training, we contribute to creating employment opportunities and fostering economic growth.
             </p>
           </div>
-          <div className="rounded-lg bg-yellow-500 p-6 shadow-sm hover:bg-white transition-colors duration-300">
-            <h4 className="text-xl font-semibold text-white hover:text-gray-900">Decent Work & Economic Growth</h4>
-            <p className="mt-2 text-white hover:text-gray-600">
-              Promote sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all.
+          <div className="rounded-lg bg-yellow-500 p-6 shadow-sm hover:bg-white transition-transform duration-1000 transform hover:-translate-y-2 cursor-pointer">
+            <h4 className="text-xl font-bold text-white hover:text-gray-900">SDG 9</h4>
+            <p className="mt-2 text-white font-semibold  hover:text-gray-600">
+                We foster innovation and build a skilled workforce, driving sustainable industrialization and infrastructure development.
             </p>
           </div>
         </div>
