@@ -3,6 +3,8 @@ import HeroSection from './HeroSection';
 import Header from './Header';
 import Goals from './Goals';
 import Footer from './Footer';
+import MainSection from './MainSection';
+import AddOn from './AddOn';
 
 const HomePage: React.FC = () => {
   return (
@@ -10,6 +12,8 @@ const HomePage: React.FC = () => {
       <Header />
       <HeroSection />
       <Goals />
+      <MainSection />
+      <AddOn />
       <Footer />
     </div>
   );

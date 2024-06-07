@@ -40,18 +40,6 @@ const Goals: React.FC = () => {
             </p>
           </div>
         </div>
-        <div className="mt-12 text-center">
-          <h4 className="text-2xl font-bold text-gray-900">Our Goals by 2025</h4>
-          <p className="mt-4 text-lg leading-8 text-gray-600">
-            By 2025, we aim to:
-          </p>
-          <ul className="mt-6 space-y-4 text-lg text-gray-600">
-            <li>Empower over 1 million individuals through educational initiatives.</li>
-            <li>Achieve a 50% reduction in our carbon footprint.</li>
-            <li>Ensure gender parity across all levels of our organization.</li>
-            <li>Drive economic growth through sustainable practices and innovative solutions.</li>
-          </ul>
-        </div>
       </div>
     </section>
   );
