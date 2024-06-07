@@ -2,9 +2,9 @@ import React from 'react';
 
 const HeroSection: React.FC = () => {
   return (
-    <div className="relative h-500 bg-white-100 overflow-hidden mt">
+    <div className="relative h-100 bg-white-100 overflow-hidden ">
       <div className="relative z-10 flex items-center justify-center h-full bg-black bg-opacity-10">
-        <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <div className="mx-auto max-w-2xl py-16 sm:py-24 lg:py-32">
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full px-3 py-1 text-sm leading-8 text-gray-600 ring-1 ring-gray-800/10 hover:ring-gray-900/30">
               Free Resources + An Active Community.{' '}
