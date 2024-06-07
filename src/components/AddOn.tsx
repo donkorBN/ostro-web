@@ -23,7 +23,7 @@ const AddOn: React.FC = () => (
             Contribute to our Mission .
           </h2>
           <p className="mt-6 text-lg leading-8 text-gray-300">
-            You can become a 
+            You can become a part of our mission by supporting OstroHub through your generous donations. Every contribution helps us empower African tech talent and drive innovation for a brighter future.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
             <a
