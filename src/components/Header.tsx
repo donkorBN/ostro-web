@@ -23,7 +23,7 @@ const Header: React.FC = () => {
           <a href="#" className="flex-shrink-0">
             <img
               className="h-10 w-auto"
-              src="src/assets/logo.png"
+              src="src/assets/logo1-removebg-preview.png"
               alt="ostrohub-logo"
             />
           </a>
