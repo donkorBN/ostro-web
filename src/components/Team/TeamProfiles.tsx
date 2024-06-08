@@ -9,23 +9,23 @@ interface TeamMember {
 
 const teamMembers: TeamMember[] = [
   {
-    name: 'Dany Bailey',
-    role: 'Software Engineer',
+    name: 'Asiamah Emmanuel Donkor',
+    role: 'Co-Founder and COO',
     imageUrl: 'https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80',
   },
   {
-    name: 'Lucy Carter',
-    role: 'Graphic Designer',
+    name: 'Kelvin Monday',
+    role: 'Co-Founder, Backend Developer',
     imageUrl: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80',
   },
   {
-    name: 'Jade Bradley',
-    role: 'Dev Ops',
+    name: 'Efe Exosia',
+    role: 'UI/UX Designer',
     imageUrl: 'https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1176&q=80',
   },
   {
     name: 'Chibuzo Franklin',
-    role: 'CTO',
+    role: 'Co-Founder and CTO',
     imageUrl: 'https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1176&q=80'
   }
   // Repeat or add more team members as needed

@@ -7,10 +7,10 @@ interface NavigationItem {
 }
 
 const navigation: NavigationItem[] = [
+  { name: 'Home', href: '#' },
   { name: 'About', href: '#' },
-  { name: 'Team', href: '#' },
   { name: 'Events', href: '#' },
-  { name: 'Mission', href: '#' },
+  { name: 'Team', href: '#' },
 ];
 
 const Header: React.FC = () => {

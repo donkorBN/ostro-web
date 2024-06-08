@@ -1,10 +1,11 @@
 import React from 'react';
-import HeroSection from './HeroSection';
+import HeroSection from './home/HeroSection';
 import Header from './Header';
-import Goals from './Goals';
+import Goals from './home/Goals';
 import Footer from './Footer';
-import MainSection from './MainSection';
-import AddOn from './AddOn';
+import MainSection from './home/MainSection';
+import AddOn from './home/AddOn';
+import Careers from '../Careers';
 
 const HomePage: React.FC = () => {
   return (
@@ -14,6 +15,7 @@ const HomePage: React.FC = () => {
       <Goals />
       <MainSection />
       <AddOn />
+      <Careers />
       <Footer />
     </div>
   );
