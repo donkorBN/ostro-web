@@ -22,7 +22,7 @@ const CallToAction: React.FC = () => (
       <span className="text-4xl font-medium">Still Confused ?</span><br />
       <span className="text-lg">Reach Out to A Mentor</span>
     </p>
-    <button className="px-5 py-3 font-medium text-slate-700 shadow-xl hover:bg-white duration-150 bg-yellow-400">
+    <button className="px-5 py-3 font-medium text-slate-700 shadow-xl hover:text-indigo-600 hover:bg-white duration-150 bg-yellow-500">
       Talk to Someone
     </button>
   </div>

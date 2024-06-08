@@ -8,7 +8,7 @@ const HeroSection: React.FC = () => {
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full px-3 py-1 text-sm leading-8 text-gray-600 ring-1 ring-gray-800/10 hover:ring-gray-900/30">
               Free Resources + An Active Community.{' '}
-              <a href="#" className="font-semibold text-indigo-600">
+              <a href="https://discord.gg/fFSW2CDv" target='_blank' className="font-semibold text-indigo-600">
                 <span className="absolute inset-0" aria-hidden="true" />
                 Join Discord <span aria-hidden="true">&rarr;</span>
               </a>
@@ -25,7 +25,7 @@ generation of tech leaders.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
-                href="#"
+                href="https://discord.gg/fFSW2CDv" target='_blank'
                 className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
               >
                 Join Us
