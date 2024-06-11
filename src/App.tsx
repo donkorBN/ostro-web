@@ -1,12 +1,12 @@
 // src/App.tsx
 
 import React from 'react';
-import MissionPage from './components/MissionPage';
+import HomePage from './components/Homepage';
 
 const App: React.FC = () => {
   return (
     <div>
-      <MissionPage />
+      <HomePage/>
     </div>
   );
 };

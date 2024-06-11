@@ -1,13 +1,15 @@
 import React from 'react'
 import Header from './Header';
 import Footer from './Footer';
-import ErrorPage from '../ErrorPage';
+import Newsletter from '../Newsletter';
+import MissionHero from './mission/MissionHero';
 
 const MissionPage: React.FC = () => {
     return (
         <div>
             <Header />
-            <ErrorPage />
+            <MissionHero />
+            <Newsletter />
             <Footer />
         </div>
     );
