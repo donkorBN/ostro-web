@@ -5,7 +5,7 @@ const MissionHero: React.FC = () => {
     <section className="bg-gray-500 text-white">
       <div className="max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
         <div className="max-w-xl">
-          <h2 className="text-3xl font-bold sm:text-4xl">What makes us special</h2>
+          <h2 className="text-3xl font-bold sm:text-4xl">What makes OstroHub special?</h2>
           <p className="mt-4 text-gray-300">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat dolores iure fugit totam
             iste obcaecati. Consequatur ipsa quod ipsum sequi culpa delectus, cumque id tenetur
